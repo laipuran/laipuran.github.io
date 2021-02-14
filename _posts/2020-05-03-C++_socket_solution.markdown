@@ -6,7 +6,7 @@ tags: [socket]
 ---
 **本人编程“小白”一个。**
 
-##  1. <a name='inet_addr'></a>inet_addr()函数过旧问题
+##  1. inet_addr()函数过旧问题
 
 在VS高版本里inet_addr()会报错，小编不推荐关闭SDL检查，而是使用**inet_pton()**或者**inet_ntop()**
 具体用法见
@@ -20,7 +20,7 @@ inet_ntop(地址系, "IP地址", (void*强制转换)&socket名称.sin_addr)
 
 完整代码
 
-##  2. <a name=''></a>服务器代码
+##  2. 服务器代码
 
 ```c
 //Server
@@ -76,7 +76,7 @@ int main() {
 }
 ```
 
-##  3. <a name='-1'></a>客户端代码
+##  3. 客户端代码
 ```c
 //Client
 #include <iostream>
@@ -120,11 +120,9 @@ int main() {
     return 0;
 }
 ```
-##  4. <a name='-1'></a>另外一种解法
+##  4. 另外一种解法
 在.cpp第一行前插入
 ```c
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 ```
 也可以完美解决。
-
-##  5. <a name='c-socket-'></a>[返回顶端](#c-socket-解决方案)

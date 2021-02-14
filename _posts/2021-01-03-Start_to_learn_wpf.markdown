@@ -7,7 +7,7 @@ tags: [wpf]
 **本人编程“小白”一个。**
 
 
-##  1. <a name=''></a>导航界面
+##  1. 导航界面
 写法
 ```c#
 FrameOfMainWindow.NavigationService.Navigate(new Uri("YourPage.xaml", UriKind.Relative));
