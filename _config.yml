@@ -8,7 +8,7 @@ theme: jekyll-theme-chirpy
 baseurl: ''
 
 # the HTML language tag › https://www.w3.org/International/questions/qa-choosing-language-tags
-lang: en-US
+lang: zh-CN
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
@@ -79,7 +79,7 @@ theme_mode:   dark # [light|dark]
 img_cdn: 'https://laipuran.github.io/blog-img'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: https://laipuran.github.io/blog-img/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
