@@ -1,8 +1,0 @@
----
-title: Pinned Post
-pinned: true
-date: 2021-02-18 08:13:25
-catagories: [Temp, temp]
-tags: temp
----
-# 
