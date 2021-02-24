@@ -126,3 +126,12 @@ int main() {
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 ```
 也可以完美解决。
+
+<script src="https://utteranc.es/client.js"
+        repo="laipuran/laipuran.github.io"
+        issue-term="title"
+        label="💬Comment"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
