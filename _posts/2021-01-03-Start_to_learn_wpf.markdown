@@ -14,3 +14,12 @@ FrameOfMainWindow.NavigationService.Navigate(new Uri("YourPage.xaml", UriKind.Re
 ```
 
 本文持续更新中
+
+<script src="https://utteranc.es/client.js"
+        repo="laipuran/laipuran.github.io"
+        issue-term="title"
+        label="💬Comment"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
