@@ -28,3 +28,12 @@ tags: [uwp]
 ![创建新项目](https://laipuran.github.io/assets/%E5%88%9B%E5%BB%BA%E6%96%B0%E9%A1%B9%E7%9B%AE.png)
 
 Then, start coding now!
+
+<script src="https://utteranc.es/client.js"
+        repo="laipuran/laipuran.github.io"
+        issue-term="title"
+        label="💬Comment"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
