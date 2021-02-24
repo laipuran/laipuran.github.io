@@ -33,3 +33,12 @@ OK, let's start working.
 按 **Ctrl** + **F5** 运行代码，查看结果。
 
 [下载实例](https://laipuran.github.io/assets/Navigate.rar)
+
+<script src="https://utteranc.es/client.js"
+        repo="laipuran/laipuran.github.io"
+        issue-term="title"
+        label="💬Comment"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
