@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy"
-
+https://github.com/laipuran/laipuran.github.io
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-xxx", "~> x.y"
