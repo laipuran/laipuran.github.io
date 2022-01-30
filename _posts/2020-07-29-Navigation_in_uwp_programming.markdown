@@ -12,7 +12,7 @@ tags: [uwp]
 OK, let's start working.
 
 首先，创建一个空白应用（我用的是C#），进入后，在左上角项目中新建项目
-![UWP加入新页面](https://laipuran.github.io/assets/UWP%E5%8A%A0%E5%85%A5%E6%96%B0%E9%A1%B5%E9%9D%A2.png)
+![UWP加入新页面](https://laipuran.github.io/blog-img/UWP%E5%8A%A0%E5%85%A5%E6%96%B0%E9%A1%B5%E9%9D%A2.png)
 
 在新建的页面加入内容，如
 ```xaml
@@ -33,7 +33,7 @@ OK, let's start working.
 
 按 **Ctrl** + **F5** 运行代码，查看结果。
 
-[下载实例](https://laipuran.github.io/assets/Navigate.rar)
+[下载实例](https://laipuran.github.io/blog-img/Navigate.rar)
 
 <script src="https://utteranc.es/client.js"
         repo="laipuran/laipuran.github.io"
