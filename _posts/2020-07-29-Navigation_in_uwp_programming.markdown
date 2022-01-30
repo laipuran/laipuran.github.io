@@ -7,7 +7,8 @@ tags: [uwp]
 ---
 **本人编程“小白”一个。**
 
-在阅读这一篇文章时，如果您没有安装UWP，请参照我写的[开始学习UWP](https://laipuran.github.io/c%23/%E6%A1%8C%E9%9D%A2/2020/05/21/Start_to_learn_uwp.html)
+在阅读这一篇文章时，如果您没有安装UWP，请参照我写的
+[开始学习UWP]({% post_url 2020-05-21-Start_to_learn_uwp %})
 
 OK, let's start working.
 

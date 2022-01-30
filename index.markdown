@@ -1,9 +1,8 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Homepage
 layout: home
 ---
- Welcome to my website
+欢迎来到我的网站                    [English Version](/en)
 
- These are my posts👇
+以下是我的博客内容👇
