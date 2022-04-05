@@ -5,11 +5,9 @@ date: 2020-05-03 14:26:10 +0800
 categories: [C++, Web]
 tags: [socket]
 ---
-**本人编程“小白”一个。**
+###  1. inet_addr()函数过旧问题
 
-##  1. inet_addr()函数过旧问题
-
-在VS高版本里inet_addr()会报错，小编不推荐关闭SDL检查，而是使用**inet_pton()**或者**inet_ntop()**
+在VS高版本(VS2021)里inet_addr()会报错，在这里我不推荐[关闭SDL检查](#4-关闭sdl检查不推荐)，而是使用 **inet_pton()** 或者 **inet_ntop()**
 具体用法见
 [inet_pton()百度百科](https://baike.baidu.com/item/inet_pton/)
 [inet_ntop()百度百科](https://baike.baidu.com/item/inet_ntop/)
@@ -18,12 +16,13 @@ tags: [socket]
 inet_pton(地址系, "IP地址", (void*强制转换)&socket名称.sin_addr);
 inet_ntop(地址系, "IP地址", (void*强制转换)&socket名称.sin_addr)
 ```
+**实际上我也不知道这两者的差别**
 
 完整代码
 
-##  2. 服务器代码
-
-```c
+###  2. 服务器代码
+服务器的主要思路就是：初始化 → 绑定服务器套接字 → 监听和连接 → 通信 → 清缓存和断开
+```cpp
 //Server
 #include <iostream>
 #include <WinSock2.h>
@@ -34,6 +33,7 @@ inet_ntop(地址系, "IP地址", (void*强制转换)&socket名称.sin_addr)
 using namespace std;
 
 int main() {
+    // 初始化套接字
     WSADATA wsaData;
     int err = WSAStartup(MAKEWORD(2, 2), &wsaData);
     if (err != 0) {
@@ -77,8 +77,8 @@ int main() {
 }
 ```
 
-##  3. 客户端代码
-```c
+###  3. 客户端代码
+```cpp
 //Client
 #include <iostream>
 #include <WinSock2.h>
@@ -121,12 +121,12 @@ int main() {
     return 0;
 }
 ```
-##  4. 另外一种解法
+###  4. 关闭SDL检查（不推荐）
 在.cpp第一行前插入
-```c
+```cpp
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 ```
-也可以完美解决。
+也可以解决。
 
 <script src="https://utteranc.es/client.js"
         repo="laipuran/laipuran.github.io"

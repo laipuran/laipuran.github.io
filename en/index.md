@@ -6,4 +6,3 @@ layout: home
 Welcome to my website!
 
 These are my blogs👇
-
