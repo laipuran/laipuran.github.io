@@ -57,3 +57,12 @@ tags: [site]
 bundle exec jekyll s
 ```
 Done!
+
+<script src="https://utteranc.es/client.js"
+        repo="laipuran/laipuran.github.io"
+        issue-term="title"
+        label="💬Comment"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
