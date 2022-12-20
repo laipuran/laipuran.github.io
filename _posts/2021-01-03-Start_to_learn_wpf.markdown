@@ -1,9 +1,7 @@
 ---
 layout: post
-title: WPF开发中出现的问题
+title: WPF 开发中出现的问题
 date: 2021-01-03 08:19:02 +0800
-categories: [C#, 桌面]
-tags: [wpf]
 ---
 ###  1. 导航界面
 导航的写法：

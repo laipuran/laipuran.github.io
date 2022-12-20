@@ -2,8 +2,6 @@
 layout: post
 title: C++ Socket 解决方案
 date: 2020-05-03 14:26:10 +0800
-categories: [C++, Web]
-tags: [socket]
 ---
 ###  1. inet_addr()函数过旧问题
 

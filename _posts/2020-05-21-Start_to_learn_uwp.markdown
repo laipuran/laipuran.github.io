@@ -2,8 +2,6 @@
 layout: post
 title: 开始学习 UWP
 date: 2020-05-21 16:03:54 +0800
-categories: [C#, 桌面]
-tags: [uwp]
 ---
 [微软第九频道上 Bob Tabor 的讲解](https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginners)
 

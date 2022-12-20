@@ -1,9 +1,7 @@
 ---
 layout: post
-title: UWP中的页面导航
+title: UWP 中的页面导航
 date: 2020-07-29 15:46:23 +0800
-categories: [C#, 桌面]
-tags: [uwp]
 ---
 
 在阅读这一篇文章时，如果您没有安装 UWP ，请参照我写的
