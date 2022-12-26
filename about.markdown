@@ -14,6 +14,7 @@ permalink: /about/
 - E-mail: 1696095803@qq.com
 - 微信: PuranLai
 
+[合成大西瓜](/BigWatermelon/index.html)
 <script src="https://utteranc.es/client.js"
         repo="laipuran/laipuran.github.io"
         issue-term="title"
