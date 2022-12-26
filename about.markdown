@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### 这就是[@laipuran](https://github.com/laipuran)的个人网站
 
-#### 作者的作品: [LuckDraw](https://www.microsoft.com/zh-cn/p/luck-draw/9p6ml1hmjj82)
+#### 作者的作品: 见产品栏
 
 #### 作者技术栈: C#, C++, WPF, .NET, UWP, Xamarin
 
