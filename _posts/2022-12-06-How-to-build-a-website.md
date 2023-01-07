@@ -2,7 +2,6 @@
 layout: post
 title: 如何自建一个网站
 date: 2022-12-16 16:04:28 +0800
-categories: [网站]
 ---
 ### 1. 准备工作
 - 往树莓派中烧写系统
@@ -45,8 +44,6 @@ jekyll new my awesome-website
 layout: post
 title: 如何自建一个网站
 date: 2022-12-16 16:04:28 +0800
-categories: [网站]
-tags: [site]
 ---
 ```
 使用 markdown↓ 写好文章内容，然后就可以

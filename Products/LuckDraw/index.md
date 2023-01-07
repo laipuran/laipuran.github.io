@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Luck Draw (抽奖)
 permalink: /Products/LuckDraw/
 ---
 ### 一个为老师准备的抽学号小程序
