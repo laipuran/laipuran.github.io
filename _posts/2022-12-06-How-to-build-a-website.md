@@ -57,6 +57,10 @@ bundle exec jekyll s
 ```
 Done!
 
+### 7.视频教程
+如何制作一个像这样的网站：
+<iframe src="//player.bilibili.com/player.html?aid=678557527&bvid=BV1nm4y1f7sq&cid=496593480&page=1" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="640" height="360"> </iframe>
+
 <script src="https://utteranc.es/client.js"
         repo="laipuran/laipuran.github.io"
         issue-term="title"
