@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: product
 permalink: /Products/LuckDraw/
 ---
 #### 一个为老师准备的抽学号小程序
