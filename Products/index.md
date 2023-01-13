@@ -1,6 +1,6 @@
 ---
 title: 产品
-layout: home
+layout: page
 ---
 ### 这是我已发布的产品
 
