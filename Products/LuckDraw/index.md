@@ -2,7 +2,6 @@
 layout: default
 permalink: /Products/LuckDraw/
 ---
-# Luck Draw
 #### 一个为老师准备的抽学号小程序
 - UWP版本
 - 快速
