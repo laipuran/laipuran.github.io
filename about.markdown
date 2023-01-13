@@ -7,14 +7,13 @@ permalink: /about/
 
 #### 作者的作品: 见产品栏
 
-#### 作者技术栈: C#, C++, WPF, .NET, UWP, Xamarin
+#### 作者技术栈: C#, C++, WPF, .NET, UWP, MAUI(略懂), Artificail Neural Network
 
 #### 联系方式：
 - QQ: 1696095803
 - E-mail: 1696095803@qq.com
 - 微信: PuranLai
 
-[合成大西瓜](/BigWatermelon/index.html)
 <script src="https://utteranc.es/client.js"
         repo="laipuran/laipuran.github.io"
         issue-term="title"
@@ -23,5 +22,3 @@ permalink: /about/
         crossorigin="anonymous"
         async>
 </script>
-#### 给作者买杯咖啡
-![QQ](https://laipuran.github.io/blog-img/QQ捐赠.png)
