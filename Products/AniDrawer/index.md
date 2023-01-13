@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: product
 permalink: /Products/AnimationDrawer/
 ---
+# Animation Drawer
 #### 一个可以创建定格动画并导出的应用
 - 高可用性
 - 支持合并、导出
